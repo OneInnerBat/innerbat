@@ -12,7 +12,7 @@
             |___/                       |___/                                                            
  ```                                   
                                            INSTALLATION
-                         Go to the packages tab and press the current release.
+                         Go to the releases tab and press the current release.
                        Click either the .exe installation file, or the .zip file,
                                          and install it.
                                          
@@ -20,4 +20,10 @@
                                               USAGE
                                    Just click the InnerBat shortcut,
                                            and explore!
+                                           
+                                           
+                                              NOTE
+                                 Don't download the code on GitHub, 
+                                 because you may run into problems.
+                                  Instead, go to the releases tab.
                                               
