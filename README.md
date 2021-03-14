@@ -23,7 +23,7 @@
                                            
                                            
                                               NOTE
-                                 Don't download the code on GitHub, 
+                      Don't press "Download as a .ZIP" in GitHub's code button, 
                                  because you may run into problems.
                                   Instead, go to the releases tab.
                                               
